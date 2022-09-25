@@ -4,4 +4,4 @@
 - I'm interested in artificial inteligence, with that, in python!
 - I'm currently learning Power BI, a powerfull software that i'm using in my work today (06/22)!
 - I'm looking to work with sotware development!
-- You can find me in https://www.linkedin.com/in/gustavonuneslazoti/!
+- You can find me at https://www.linkedin.com/in/gustavonuneslazoti/!
